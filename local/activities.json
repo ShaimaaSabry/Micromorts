@@ -1,0 +1,40 @@
+{
+  "activities": [
+    {
+      "activity": "walked on sidewalk",
+      "quantity": 17,
+      "unit": "MILE",
+      "micromorts": 1
+    },
+    {
+      "activity": "rode a shark",
+      "quantity": 1,
+      "unit": "MINUTE",
+      "micromorts": 1000
+    },
+    {
+      "activity": "skiing",
+      "quantity": 1,
+      "unit": "QUANTITY",
+      "micromorts": 0.7
+    },
+    {
+      "activity": "skydiving",
+      "quantity": 1,
+      "unit": "QUANTITY",
+      "micromorts": 8
+    },
+    {
+      "activity": "base jumping",
+      "quantity": 1,
+      "unit": "QUANTITY",
+      "micromorts": 430
+    },
+    {
+      "activity": "mountaineering",
+      "quantity": 1,
+      "unit": "QUANTITY",
+      "micromorts": 2840
+    }
+  ]
+}
